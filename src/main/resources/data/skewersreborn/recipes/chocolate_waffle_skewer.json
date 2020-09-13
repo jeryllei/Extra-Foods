@@ -1,0 +1,27 @@
+{
+  
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "x",
+    "s"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "skewersreborn:chocolate_chip_waffle"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "skewersreborn:chocolate_chip_waffle_skewer",
+    "count": 1
+  }
+
+}

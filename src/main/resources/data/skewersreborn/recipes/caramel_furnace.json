@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:sugar"
+  },
+  "result": "skewersreborn:caramel",
+  "experience": 0.4,
+  "cookingtime": 200
+}

@@ -1,0 +1,27 @@
+{
+  
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "x",
+    "s"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:cod"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "skewersreborn:raw_cod_skewer",
+    "count": 1
+  }
+
+}

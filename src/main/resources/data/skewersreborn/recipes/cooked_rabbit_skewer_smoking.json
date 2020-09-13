@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "skewersreborn:raw_rabbit_skewer"
+  },
+  "result": "skewersreborn:cooked_rabbit_skewer",
+  "experience": 0.5,
+  "cookingtime": 100
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xcx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "skewersreborn:waffle"
+    },
+    "c":
+    {
+      "item": "skewersreborn:chocolate_bar"
+    }
+  },
+  "result":
+  {
+    "item": "skewersreborn:chocolate_chip_waffle",
+    "count": 8
+  }
+}

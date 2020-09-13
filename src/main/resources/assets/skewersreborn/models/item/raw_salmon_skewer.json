@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer1": "skewersreborn:items/skewer_salmon_raw",
+    "layer0": "skewersreborn:items/skewer_none"
+  }
+}

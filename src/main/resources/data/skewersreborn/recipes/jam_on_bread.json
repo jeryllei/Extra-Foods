@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "skewersreborn:jam"
+    }
+  ],
+  "result":
+  {
+    "item": "skewersreborn:jam_on_bread",
+    "count": 1
+  }
+}
