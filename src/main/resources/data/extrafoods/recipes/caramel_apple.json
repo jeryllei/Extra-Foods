@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "c",
+    "a",
+    "s"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "extrafoods:caramel"
+    },
+    "a":
+    {
+      "item": "minecraft:apple"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "extrafoods:caramel_apple",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:sugar"
+  },
+  "result": "extrafoods:caramel",
+  "experience": 0.4,
+  "cookingtime": 100
+}

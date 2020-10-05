@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "extrafoods:raw_cod_skewer"
+  },
+  "result": "extrafoods:cooked_cod_skewer",
+  "experience": 0.5,
+  "cookingtime": 200
+}

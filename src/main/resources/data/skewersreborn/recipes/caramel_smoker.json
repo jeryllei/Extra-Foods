@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smoking",
-  "ingredient": {
-    "item": "minecraft:sugar"
-  },
-  "result": "skewersreborn:caramel",
-  "experience": 0.4,
-  "cookingtime": 100
-}

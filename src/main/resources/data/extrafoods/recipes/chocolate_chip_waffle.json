@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xcx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "extrafoods:waffle"
+    },
+    "c":
+    {
+      "item": "extrafoods:chocolate_bar"
+    }
+  },
+  "result":
+  {
+    "item": "extrafoods:chocolate_chip_waffle",
+    "count": 8
+  }
+}

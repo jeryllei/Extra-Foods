@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xax",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond_block"
+    },
+    "a":
+    {
+      "item": "minecraft:apple"
+    }
+  },
+  "result":
+  {
+    "item": "extrafoods:enchanted_diamond_apple",
+    "count": 1
+  }
+}

@@ -12,19 +12,19 @@ loaderVersion="[33,)" #mandatory This is typically bumped every Minecraft versio
 license="MIT License"
 
 # A URL to refer people to when problems occur with this mod
-# issueTrackerURL=http://my.issue.tracker/
+# issueTrackerURL="https://github.com/jeryllei/Skewers-Reborn/issues"
 
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 
 # The modid of the mod
-modId="skewersreborn" #mandatory
+modId="extrafoods" #mandatory
 
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 version="1.16.3-1.1.0" #mandatory
 
  # A display name for the mod
-displayName="Skewers Reborn (And more!)" #mandatory
+displayName="Extra Foods" #mandatory
 
 # A URL to query for updates for this mod. See the JSON update specification <here>
 
@@ -32,7 +32,7 @@ displayName="Skewers Reborn (And more!)" #mandatory
 displayURL="https://www.curseforge.com/minecraft/mc-mods/skewers-reborn-and-more" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="logo.png" #optional
+
 
 credits="Skewers idea and textures are from Cassadis's Skewers mod."
 

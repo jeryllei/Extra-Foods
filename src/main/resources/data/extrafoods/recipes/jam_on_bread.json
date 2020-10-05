@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "extrafoods:jam"
+    }
+  ],
+  "result":
+  {
+    "item": "extrafoods:jam_on_bread",
+    "count": 1
+  }
+}

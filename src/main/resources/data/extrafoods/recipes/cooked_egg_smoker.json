@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": "extrafoods:cooked_egg",
+  "experience": 0.7,
+  "cookingtime": 100
+}

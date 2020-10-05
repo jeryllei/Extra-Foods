@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "skewersreborn:raw_beef_skewer"
-  },
-  "result": "skewersreborn:steak_skewer",
-  "experience": 0.5,
-  "cookingtime": 200
-}

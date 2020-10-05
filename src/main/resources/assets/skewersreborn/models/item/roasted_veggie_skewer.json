@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer1": "skewersreborn:items/skewer_veggie_cooked",
-    "layer0": "skewersreborn:items/skewer_none"
-  }
-}

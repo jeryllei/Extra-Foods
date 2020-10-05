@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "extrafoods:veggie_skewer"
+  },
+  "result": "extrafoods:roasted_veggie_skewer",
+  "experience": 0.5,
+  "cookingtime": 200
+}

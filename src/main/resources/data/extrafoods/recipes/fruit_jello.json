@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:slimeballs"
+    },
+    {
+      "tag": "forge:fruits"
+    }
+  ],
+  "result":
+  {
+    "item": "extrafoods:fruit_jello",
+    "count": 1
+  }
+}
