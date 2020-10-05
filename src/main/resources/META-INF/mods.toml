@@ -32,7 +32,7 @@ displayName="Extra Foods" #mandatory
 displayURL="https://www.curseforge.com/minecraft/mc-mods/skewers-reborn-and-more" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-
+logoFile="logo.png" #optional
 
 credits="Skewers idea and textures are from Cassadis's Skewers mod."
 
