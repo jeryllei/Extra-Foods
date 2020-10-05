@@ -15,7 +15,7 @@ apply plugin: 'maven-publish'
 
 version = '1.16.3-1.1.0'
 group = 'com.dyrnwyn.skewersreborn' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'Skewers Reborn'
+archivesBaseName = 'skewers-reborn'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
